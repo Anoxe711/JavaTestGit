@@ -3,9 +3,5 @@ interface OOP {
 }
 
 class CreditCard {
-    @Override
-    void pay(double amount) {
-
-    } 
     // Проверка гит
 }
